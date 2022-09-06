@@ -628,26 +628,10 @@
       }
     }
   },
-  "Setmore": {
-    "H1": {
-      "value": {
-        "fontFamily": "{fontFamilies.monserrat}",
-        "fontWeight": "{fontWeights.inter-2}",
-        "lineHeight": "{lineHeights.4}",
-        "fontSize": "{fontSize.2}",
-        "letterSpacing": "{letterSpacing.1}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "textDecoration": "{textDecoration.none}",
-        "textCase": "{textCase.uppercase}"
-      },
-      "type": "typography"
-    }
-  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "Global",
-      "Setmore"
+      "Global"
     ]
   }
 }
