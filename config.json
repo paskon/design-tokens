@@ -3,7 +3,7 @@
     "platforms": {
       "scss": {
         "transformGroup": "css",
-        "prefix": "aws",
+        "prefix": "awd",
         "buildPath": "build/css/",
         "files": [{
           "destination": "_variables.css",
